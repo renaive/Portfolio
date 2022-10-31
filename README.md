@@ -1,2 +1,3 @@
-# Renatta-Pereira
-Portfólio
+# Renatta Pereira
+
+Currículo no formato de portfólio!
