@@ -1,0 +1,113 @@
+body {
+  font-family: montserrat;
+  margin: 0px;
+}
+
+.backgroundpink {
+  background-color: #ffddd2;
+}
+
+.contentalign {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.maincontent {
+  padding: 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 52vh;
+}
+
+.profileimagewrapper {
+  width: 380px;
+  height: 380px;
+}
+
+.profileimage {
+  height: 100%;
+}
+
+.textwrapper {
+  width: 65%;
+}
+
+.skillscontent {
+  background-color: #83c5be;
+  padding: 120px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  color: #edf6f9;
+  font-size: 28px;
+}
+
+p {
+  font-size: 22px;
+}
+
+.bold {
+  font-weight: bolder;
+}
+
+.navtitle {
+  width: 50%;
+}
+
+.links {
+  width: 50%;
+  display: flex;
+}
+
+nav {
+  background-color: #006d77;
+  color: #edf6f9;
+  padding: 20px 10px;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.linkslist {
+  width: 80%;
+}
+
+nav ul li:hover {
+  opacity: 0.5;
+}
+
+nav ul li a {
+  color: #edf6f9;
+  font-size: 24px;
+  text-decoration: unset;
+}
+
+.contactsection {
+  border-top: 30px solid #e29578;
+}
+
+.contactcontent {
+  background-color: #83c5be;
+  padding: 120px;
+}
+
+footer {
+  font-family: montserrat;
+  background: #006d77;
+  display: flex;
+  justify-content: center;
+}
+
+.footercontent {
+  width: 60%;
+}
